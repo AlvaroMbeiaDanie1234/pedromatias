@@ -20,7 +20,7 @@
 	right: 0;
 	width: 60px;
 	height: 100vh;
-	background-color: orange;
+	background-color: whitesmoke;
 }
 
 
@@ -35,7 +35,7 @@
 
 .info p{
 	margin-left: 40px;
-	font-size: 10px;
+	font-size: 20px;
 	color: skyblue;
 } 
 
